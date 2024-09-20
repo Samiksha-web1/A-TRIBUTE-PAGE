@@ -1,0 +1,26 @@
+img{
+    border-radius: 100cm;
+    border: 5px solid black;
+}
+.about{
+    text-align: right;
+    background-color: aqua;
+}
+h4{
+    text-align: right;
+    background-color: yellow;
+}
+.info{
+    background-color: palevioletred;
+    padding: 10px;
+    border: 3px solid black ;
+}
+h3{
+    background-color: palevioletred;
+    padding: 10px;
+    border: 3px solid black ;
+}
+a:link{
+    color:blue;
+}
+
